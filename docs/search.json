@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "openscience.html#open-science",
+    "href": "openscience.html#open-science",
+    "title": "Open science",
+    "section": "open science",
+    "text": "open science\nA collection of actions designed to\n\nmake scientific processes more transparent and their\nresults more accessible (Spellman et al. , 2018)"
+  },
+  {
+    "objectID": "openscience.html#transparency",
+    "href": "openscience.html#transparency",
+    "title": "Open science",
+    "section": "transparency",
+    "text": "transparency\n\nshow all steps of the scientific process\nfuture proof your scientific contribution\navoid filtering by results\n\np-hacking\npublication bias"
+  },
+  {
+    "objectID": "openscience.html#accessibility",
+    "href": "openscience.html#accessibility",
+    "title": "Open science",
+    "section": "accessibility",
+    "text": "accessibility\n\npreregistration\ndata\nanalysis scripts\npreprint"
+  },
+  {
+    "objectID": "openscience.html#preregistration",
+    "href": "openscience.html#preregistration",
+    "title": "Open science",
+    "section": "preregistration",
+    "text": "preregistration\n\nresearch recipe\nreduce flexibility in research (QRP)\ncheck feasibility before collecting data\nsave time and effort\nOSF (Open science framework)\n\nown example\n\nRegistered Report\n\npreregistration with a journal\nin-principle acceptance"
+  },
+  {
+    "objectID": "openscience.html#data-sharing",
+    "href": "openscience.html#data-sharing",
+    "title": "Open science",
+    "section": "data sharing",
+    "text": "data sharing\n\ndata reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\ndata storage\n\nSUB support\nfigshare Stefan project"
+  },
+  {
+    "objectID": "openscience.html#analysis-scripts",
+    "href": "openscience.html#analysis-scripts",
+    "title": "Open science",
+    "section": "analysis scripts",
+    "text": "analysis scripts\n\nuse scripts\nliteral programming\n\nmix analyses with text\n\nR\nRStudio\nRmarkdown (Stefan example)"
+  },
+  {
+    "objectID": "openscience.html#preprints",
+    "href": "openscience.html#preprints",
+    "title": "Open science",
+    "section": "preprints",
+    "text": "preprints\n\nshare without delay"
+  },
+  {
+    "objectID": "openscience.html#open-science-1",
+    "href": "openscience.html#open-science-1",
+    "title": "Open science",
+    "section": "open science",
+    "text": "open science\nmakes science\n\ntransparent\naccessible"
+  }
+]
