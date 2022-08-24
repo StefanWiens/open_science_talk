@@ -82,3 +82,7 @@ makes science
 
 -   transparent
 -   accessible
+
+## thanks
+
+thank you for your attention
