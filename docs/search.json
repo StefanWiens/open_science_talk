@@ -39,7 +39,7 @@
     "href": "openscience.html#analysis-scripts",
     "title": "Open science",
     "section": "analysis scripts",
-    "text": "analysis scripts\n\nuse scripts\nliteral programming\n\nmix analyses with text\n\nR environment (R, RStudio, Rmarkdown)\n\nStefan example\n\nPython\ngithub\nQuarto"
+    "text": "analysis scripts\n\nliteral programming\n\nmix analyses with text\n\nR environment (R, RStudio, Rmarkdown)\n\nStefan example\n\nPython\nshare scripts via github\nQuarto\n\nthis git depository\nthis presentation"
   },
   {
     "objectID": "openscience.html#preprints",
@@ -68,5 +68,12 @@
     "title": "Open science",
     "section": "discussion",
     "text": "discussion\ntime for discussion"
+  },
+  {
+    "objectID": "openscience.html#sharing-datamaterial",
+    "href": "openscience.html#sharing-datamaterial",
+    "title": "Open science",
+    "section": "sharing data/material",
+    "text": "sharing data/material\n\ndata reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\nethics (GDPR)\ndata storage\n\nSUB support\nfigshare Stefan project"
   }
 ]

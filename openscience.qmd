@@ -50,7 +50,7 @@ A collection of actions designed to
     -   preregistration with a journal
     -   in-principle acceptance
 
-## data sharing
+## sharing data/material
 
 -   data reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)
 -   consider ethics/waste in **not** sharing
@@ -67,14 +67,15 @@ A collection of actions designed to
 
 ## analysis scripts
 
--   use scripts
 -   literal programming
     -   mix analyses with text
 -   R environment ([R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Rmarkdown](https://rmarkdown.rstudio.com/))
     -   [Stefan example](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607)
 -   [Python](https://www.python.org/)
--   [github](https://github.com/)
+-   share scripts via [github](https://github.com/)
 -   [Quarto](https://quarto.org/)
+    -   [this git depository](https://github.com/StefanWiens/open_science_talk.git)
+    -   [this presentation](https://stefanwiens.github.io/open_science_talk/openscience.html)
 
 ## preprints
 

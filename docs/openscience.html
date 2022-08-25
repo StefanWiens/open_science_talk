@@ -7,7 +7,7 @@
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.0.36">
+  <meta name="generator" content="quarto-1.1.120">
 
   <meta name="author" content="Stefan Wiens &amp; Gustav Nilsonne">
   <meta name="dcterms.date" content="2022-08-25">
@@ -20,10 +20,15 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -377,8 +382,8 @@
 </ul></li>
 </ul>
 </section>
-<section id="data-sharing" class="slide level2">
-<h2>data sharing</h2>
+<section id="sharing-datamaterial" class="slide level2">
+<h2>sharing data/material</h2>
 <ul>
 <li class="fragment">data reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)</li>
 <li class="fragment">consider ethics/waste in <strong>not</strong> sharing</li>
@@ -399,7 +404,6 @@
 <section id="analysis-scripts" class="slide level2">
 <h2>analysis scripts</h2>
 <ul>
-<li class="fragment">use scripts</li>
 <li class="fragment">literal programming
 <ul>
 <li class="fragment">mix analyses with text</li>
@@ -409,8 +413,12 @@
 <li class="fragment"><a href="https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607">Stefan example</a></li>
 </ul></li>
 <li class="fragment"><a href="https://www.python.org/">Python</a></li>
-<li class="fragment"><a href="https://github.com/">github</a></li>
-<li class="fragment"><a href="https://quarto.org/">Quarto</a></li>
+<li class="fragment">share scripts via <a href="https://github.com/">github</a></li>
+<li class="fragment"><a href="https://quarto.org/">Quarto</a>
+<ul>
+<li class="fragment"><a href="https://github.com/StefanWiens/open_science_talk.git">this git depository</a></li>
+<li class="fragment"><a href="https://stefanwiens.github.io/open_science_talk/openscience.html">this presentation</a></li>
+</ul></li>
 </ul>
 </section>
 <section id="preprints" class="slide level2">
@@ -756,7 +764,8 @@
       for (var i=0; i<noterefs.length; i++) {
         const ref = noterefs[i];
         tippyHover(ref, function() {
-          let href = ref.getAttribute('href');
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
