@@ -9,6 +9,7 @@ format:
     theme: solarized
     preview-links: true
 editor: visual
+bibliography: references.bib
 ---
 
 ## open science
@@ -16,7 +17,7 @@ editor: visual
 A collection of actions designed to
 
 -   make scientific processes more **transparent** and their
--   results more **accessible** (Spellman et al. , 2018)
+-   results more **accessible** [@spellman2018]
 
 ## transparency
 
@@ -52,7 +53,7 @@ A collection of actions designed to
 
 ## sharing data/material
 
--   data reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)
+-   data reuse: study as data-point in a future meta-analysis [@lakens2016]
 -   consider ethics/waste in **not** sharing
 
 . . .
@@ -67,7 +68,7 @@ A collection of actions designed to
 
 ## analysis scripts
 
--   literal programming
+-   literate programming [@knuth1984]
     -   mix analyses with text
 -   R environment ([R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Rmarkdown](https://rmarkdown.rstudio.com/))
     -   [Stefan example](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607)
@@ -91,3 +92,5 @@ makes science
 ## discussion
 
 time for discussion
+
+## references

@@ -4,7 +4,7 @@
     "href": "openscience.html#open-science",
     "title": "Open science",
     "section": "open science",
-    "text": "open science\nA collection of actions designed to\n\nmake scientific processes more transparent and their\nresults more accessible (Spellman et al. , 2018)"
+    "text": "open science\nA collection of actions designed to\n\nmake scientific processes more transparent and their\nresults more accessible (Spellman, Gilbert, and Corker 2018)"
   },
   {
     "objectID": "openscience.html#transparency",
@@ -39,7 +39,7 @@
     "href": "openscience.html#analysis-scripts",
     "title": "Open science",
     "section": "analysis scripts",
-    "text": "analysis scripts\n\nliteral programming\n\nmix analyses with text\n\nR environment (R, RStudio, Rmarkdown)\n\nStefan example\n\nPython\nshare scripts via github\nQuarto\n\nthis git depository\nthis presentation"
+    "text": "analysis scripts\n\nliterate programming (Knuth 1984)\n\nmix analyses with text\n\nR environment (R, RStudio, Rmarkdown)\n\nStefan example\n\nPython\nshare scripts via github\nQuarto\n\nthis git depository\nthis presentation"
   },
   {
     "objectID": "openscience.html#preprints",
@@ -74,6 +74,13 @@
     "href": "openscience.html#sharing-datamaterial",
     "title": "Open science",
     "section": "sharing data/material",
-    "text": "sharing data/material\n\ndata reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\nethics (GDPR)\ndata storage\n\nSUB support\nfigshare Stefan project"
+    "text": "sharing data/material\n\ndata reuse: study as data-point in a future meta-analysis (Lakens, Hilgard, and Staaks 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\nethics (GDPR)\ndata storage\n\nSUB support\nfigshare Stefan project"
+  },
+  {
+    "objectID": "openscience.html#references",
+    "href": "openscience.html#references",
+    "title": "Open science",
+    "section": "references",
+    "text": "references\n\n\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nLakens, Daniël, Joe Hilgard, and Janneke Staaks. 2016. “On the Reproducibility of Meta-Analyses: Six Practical Recommendations.” BMC Psychology 4 (1): 24. https://doi.org/10.1186/s40359-016-0126-3.\n\n\nSpellman, Barbara A., Elizabeth A. Gilbert, and Katherine S. Corker. 2018. “Open Science.” In, edited by John T. Wixted, 1–47. Hoboken, NJ, USA: John Wiley & Sons, Inc. https://doi.org/10.1002/9781119170174.epcn519."
   }
 ]
