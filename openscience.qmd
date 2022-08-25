@@ -2,7 +2,7 @@
 title: "Open science"
 subtitle: "Institutionsdag @ Psychology"
 author: "Stefan Wiens & Gustav Nilsonne"
-date: "`r Sys.Date()`"
+date: "26 Aug 2022"
 format: 
   revealjs: 
     incremental: true
