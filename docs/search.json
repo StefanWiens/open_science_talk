@@ -11,35 +11,35 @@
     "href": "openscience.html#transparency",
     "title": "Open science",
     "section": "transparency",
-    "text": "transparency\n\nshow all steps of the scientific process\nfuture proof your scientific contribution\navoid filtering by results\n\np-hacking\npublication bias"
+    "text": "transparency\n\nshows all steps of the scientific process\nprovides details of study process\navoids filtering by results\n\nresearch flexibility\npublication bias"
   },
   {
     "objectID": "openscience.html#accessibility",
     "href": "openscience.html#accessibility",
     "title": "Open science",
     "section": "accessibility",
-    "text": "accessibility\n\npreregistration\ndata\nanalysis scripts\npreprint"
+    "text": "accessibility\n\npreregistration\nmaterial\ndata\nanalysis scripts\npreprint"
   },
   {
     "objectID": "openscience.html#preregistration",
     "href": "openscience.html#preregistration",
     "title": "Open science",
     "section": "preregistration",
-    "text": "preregistration\n\nresearch recipe\nreduce flexibility in research (QRP)\ncheck feasibility before collecting data\nsave time and effort\nOSF (Open science framework)\n\nown example\n\nRegistered Report\n\npreregistration with a journal\nin-principle acceptance"
+    "text": "preregistration\n\nresearch recipe\nreduce research flexibility\ncheck feasibility before collecting data\nsave time and effort\nOSF (Open science framework)\n\nown example\n\nRegistered Report\n\npreregistration with a journal\nin-principle acceptance"
   },
   {
     "objectID": "openscience.html#data-sharing",
     "href": "openscience.html#data-sharing",
     "title": "Open science",
     "section": "data sharing",
-    "text": "data sharing\n\ndata reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\ndata storage\n\nSUB support\nfigshare Stefan project"
+    "text": "data sharing\n\ndata reuse: study as data-point in a future meta-analysis (Lakens et al., 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\nethics (GDPR)\ndata storage\n\nSUB support\nfigshare Stefan project"
   },
   {
     "objectID": "openscience.html#analysis-scripts",
     "href": "openscience.html#analysis-scripts",
     "title": "Open science",
     "section": "analysis scripts",
-    "text": "analysis scripts\n\nuse scripts\nliteral programming\n\nmix analyses with text\n\nR\nRStudio\nRmarkdown (Stefan example)"
+    "text": "analysis scripts\n\nuse scripts\nliteral programming\n\nmix analyses with text\n\nR environment (R, RStudio, Rmarkdown)\n\nStefan example\n\nPython\ngithub\nQuarto"
   },
   {
     "objectID": "openscience.html#preprints",
@@ -61,5 +61,12 @@
     "title": "Open science",
     "section": "thanks",
     "text": "thanks\nthank you for your attention"
+  },
+  {
+    "objectID": "openscience.html#discussion",
+    "href": "openscience.html#discussion",
+    "title": "Open science",
+    "section": "discussion",
+    "text": "discussion\ntime for discussion"
   }
 ]

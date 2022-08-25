@@ -20,10 +20,10 @@ A collection of actions designed to
 
 ## transparency
 
--   show all steps of the scientific process
--   future proof your scientific contribution
--   avoid filtering by results
-    -   p-hacking
+-   shows all steps of the scientific process
+-   provides details of study process
+-   avoids filtering by results
+    -   research flexibility
     -   publication bias
 
 . . .
@@ -33,6 +33,7 @@ A collection of actions designed to
 ## accessibility
 
 -   preregistration
+-   material
 -   data
 -   analysis scripts
 -   preprint
@@ -40,7 +41,7 @@ A collection of actions designed to
 ## preregistration
 
 -   research recipe
--   reduce flexibility in research (QRP)
+-   reduce research flexibility
 -   check feasibility before collecting data
 -   save time and effort
 -   [OSF](https://osf.io/) (Open science framework)
@@ -59,6 +60,7 @@ A collection of actions designed to
 ![](images/data-sharing%20cartoon.jpg){.absolute bottom="50" right="0" width="300"}
 
 -   plan ahead for data sharing ([FAIR](https://www.go-fair.org/fair-principles/))
+-   ethics (GDPR)
 -   data storage
     -   [SUB support](https://www.su.se/staff/researchers/research-data/manage-store-data)
     -   [figshare Stefan project](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607)
@@ -68,9 +70,11 @@ A collection of actions designed to
 -   use scripts
 -   literal programming
     -   mix analyses with text
--   [R](https://www.r-project.org/)
--   [RStudio](https://www.rstudio.com/)
--   Rmarkdown ([Stefan example](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607))
+-   R environment ([R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/), [Rmarkdown](https://rmarkdown.rstudio.com/))
+    -   [Stefan example](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607)
+-   [Python](https://www.python.org/)
+-   [github](https://github.com/)
+-   [Quarto](https://quarto.org/)
 
 ## preprints
 
@@ -83,6 +87,6 @@ makes science
 -   transparent
 -   accessible
 
-## thanks
+## discussion
 
-thank you for your attention
+time for discussion
