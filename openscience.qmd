@@ -20,8 +20,6 @@ A collection of values, practices and movements aiming to
 
 -   results more **accessible** [@spellman2018]
 
-    [![](images/Open_science_v1.2Asset%2020.jpg)](https://doi.org/10.53962/z783-40a1)
-
 ## transparency
 
 -   shows all steps of the scientific process
@@ -77,6 +75,9 @@ A collection of values, practices and movements aiming to
 -   Sensitive personal data cannot be shared openly (requires ethics approval for processing)
 
     -   Definition of sensitive data concerning health is very broad
+
+## anonymization and data sharing
+
 
 -   Anonymized data can be shared fully openly
 

@@ -4,7 +4,7 @@
     "href": "openscience.html#open-science",
     "title": "Open science",
     "section": "open science",
-    "text": "open science\nA collection of actions designed to\n\nmake scientific processes more transparent and their\nresults more accessible (Spellman, Gilbert, and Corker 2018)"
+    "text": "open science\nA collection of values, practices and movements aiming to\n\nmake scientific processes more transparent and their\nresults more accessible (Spellman, Gilbert, and Corker 2018)"
   },
   {
     "objectID": "openscience.html#transparency",
@@ -74,7 +74,7 @@
     "href": "openscience.html#sharing-datamaterial",
     "title": "Open science",
     "section": "sharing data/material",
-    "text": "sharing data/material\n\ndata reuse: study as data-point in a future meta-analysis (Lakens, Hilgard, and Staaks 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\nethics (GDPR)\ndata storage\n\nSUB support\nfigshare Stefan project"
+    "text": "sharing data/material\n\ndata reuse: study as data-point in a future meta-analysis (Lakens, Hilgard, and Staaks 2016)\nconsider ethics/waste in not sharing\n\n\n\n\nplan ahead for data sharing (FAIR)\ndata storage\n\nSUB support\nfigshare Stefan project"
   },
   {
     "objectID": "openscience.html#references",
@@ -82,5 +82,19 @@
     "title": "Open science",
     "section": "references",
     "text": "references\n\n\n\n\n\n\nKnuth, D. E. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nLakens, Daniël, Joe Hilgard, and Janneke Staaks. 2016. “On the Reproducibility of Meta-Analyses: Six Practical Recommendations.” BMC Psychology 4 (1): 24. https://doi.org/10.1186/s40359-016-0126-3.\n\n\nSpellman, Barbara A., Elizabeth A. Gilbert, and Katherine S. Corker. 2018. “Open Science.” In, edited by John T. Wixted, 1–47. Hoboken, NJ, USA: John Wiley & Sons, Inc. https://doi.org/10.1002/9781119170174.epcn519."
+  },
+  {
+    "objectID": "openscience.html#data-sharing-and-the-gdpr-general-data-protection-regulation",
+    "href": "openscience.html#data-sharing-and-the-gdpr-general-data-protection-regulation",
+    "title": "Open science",
+    "section": "data sharing and the GDPR (General Data Protection Regulation)",
+    "text": "data sharing and the GDPR (General Data Protection Regulation)\n\npersonal data are data that can be attributed to a living natural person by means reasonably likely to be used\n\nConverging interpretation in Sweden: pseudonymized data are still personal data to a third party\n\nSensitive personal data cannot be shared openly (requires ethics approval for processing)\n\nDefinition of sensitive data concerning health is very broad"
+  },
+  {
+    "objectID": "openscience.html#anonymization-and-data-sharing",
+    "href": "openscience.html#anonymization-and-data-sharing",
+    "title": "Open science",
+    "section": "anonymization and data sharing",
+    "text": "anonymization and data sharing\n\nAnonymized data can be shared fully openly\nNon-anonymized data can be shared with controlled access\nThere are other options if you cannot anonymize the data\n\nShare summary statistics, distributions, correlation matrices, etc"
   }
 ]
