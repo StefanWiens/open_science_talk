@@ -14,10 +14,13 @@ bibliography: references.bib
 
 ## open science
 
-A collection of actions designed to
+A collection of values, practices and movements aiming to
 
 -   make scientific processes more **transparent** and their
+
 -   results more **accessible** [@spellman2018]
+
+    [![](images/Open_science_v1.2Asset%2020.jpg)](https://doi.org/10.53962/z783-40a1)
 
 ## transparency
 
@@ -61,10 +64,27 @@ A collection of actions designed to
 ![](images/data-sharing%20cartoon.jpg){.absolute bottom="50" right="0" width="300"}
 
 -   plan ahead for data sharing ([FAIR](https://www.go-fair.org/fair-principles/))
--   ethics (GDPR)
 -   data storage
     -   [SUB support](https://www.su.se/staff/researchers/research-data/manage-store-data)
     -   [figshare Stefan project](https://su.figshare.com/articles/dataset/Open_data_Electrophysiological_correlates_of_in-vivo_and_virtual_reality_therapy_in_spider_phobia/14891607)
+
+## data sharing and the GDPR (General Data Protection Regulation)
+
+-   personal data are data that can be attributed to a living natural person by means reasonably likely to be used
+
+    -   Converging interpretation in Sweden: pseudonymized data are still personal data to a third party
+
+-   Sensitive personal data cannot be shared openly (requires ethics approval for processing)
+
+    -   Definition of sensitive data concerning health is very broad
+
+-   Anonymized data can be shared fully openly
+
+-   Non-anonymized data can be shared with controlled access
+
+-   There are other options if you cannot anonymize the data
+
+    -   Share summary statistics, distributions, correlation matrices, etc
 
 ## analysis scripts
 
